@@ -12,7 +12,7 @@ Competitors: TransferWise, Venmo, WorldRemit, Ria Money Transfer, Western Union
 
 _How does this company use technology to their advantage? Why are they considered a FinTech company?_
 
-    -  desktop and mobile site
+    - desktop and mobile site
     - utilizes reloaded mobile phones for mone transfers
     - Verisign
     - Third-party TRUSTe Privacy Seal Protection
