@@ -30,3 +30,20 @@ Strengths:
 _What is the prognosis for this company? Where do they expect to be in the future?_
 
     In March 2011, and in September 2012, Xoom was listed in the Wall Street Journal's annual "Next Big Thing List" list of the 50 most promising venture-backed companies. Debaise, Colleen (10 March 2011). "The Top 50 Venture-Backed Companies". Wall Street Journal. Retrieved March 10, 2011.   Zoran, Basich (27 March 2012). "Looking for the 'Next Big Thing'? Ranking the Top 50 Start-Ups". Wall Street Journal. Retrieved January 3, 2013.
+
+
+## Contributors
+
+![cool photo of the team](./images/contributors.png)
+
+Arben 
+
+Anthony 
+
+Carolina
+
+Elaine 
+
+Jordan 
+
+Ryan
