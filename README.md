@@ -1,1 +1,2 @@
-# group_case_study_group_6
+# The Other Xoom
+![xoom logo](./images/xoom_logo.png)
